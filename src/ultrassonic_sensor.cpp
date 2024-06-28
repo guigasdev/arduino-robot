@@ -76,3 +76,5 @@ int esquerda;
 servo_11.write(90);
 delay(200);
 }
+
+//Manda um gatilho para o servo com delay de 200MS
